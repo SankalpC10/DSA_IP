@@ -12,7 +12,7 @@ public class a_hello_world {
             of multiline Comment
             CLI Commands
             $ javac a_hello_world.java - to build
-            $ java a_hello_world
+            $ java a_hello_world - to run
         */
         System.out.println("Hello World");
     }
