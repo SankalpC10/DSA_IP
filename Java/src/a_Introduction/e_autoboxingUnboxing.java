@@ -1,7 +1,7 @@
 package a_Introduction;
 /*
 * Java has concept of wrapper classes for each primitive type(non reference) to implement in fully object-oriented Java Collections(non-primitive)
-* int -> Integer; float -> Float(Autoboxing)
+* int -> Integer; float -> Float(Autoboxing takes place)
 * */
 
 public class e_autoboxingUnboxing {
