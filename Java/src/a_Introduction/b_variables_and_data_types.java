@@ -10,13 +10,13 @@ package a_Introduction;
 
 public class b_variables_and_data_types {
     public static void main(String[] args) {
-        int age = 22;
+        int age = 22; //primitive
         String name = "Sankalp";
         double v = 70.5;
         System.out.println(age);
         System.out.println(name);
         System.out.println(v);
-
+        // below datatypes are primitive
         boolean isvalid = true;
         byte marks = 90;
         float pi = (float) 3.14;
