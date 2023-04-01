@@ -8,7 +8,6 @@ public class c_swap_two_numbers {
         a =temp;
         System.out.println(a+ " " +b);
     }
-
     public static void main(String[] args) {
         int a = 10,b=20;
         System.out.println(a+ " " +b);
