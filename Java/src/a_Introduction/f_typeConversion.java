@@ -1,7 +1,7 @@
 package a_Introduction;
 /* Type Conversion
-    Widening or Implicit Conversion: byte->short->int->long(64 bit)->float(32 bit but exponents are stored differently)->double(64 bit)
-                                     char->int
+    Widening or Implicit Conversion: byte->short->int(16 bit)->long(64 bit)->float(32 bit but exponents are stored differently)->double(64 bit)
+                                     char(16 bit)->int
     Narrowing or Explicit Conversion => loss of data
 * */
 
